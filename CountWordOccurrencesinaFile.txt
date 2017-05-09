@@ -1,0 +1,21 @@
+﻿Count Word Occurrences in a File
+________________
+
+
+
+
+Prompt the user asking for what file name they would like to search.
+        Save the answer into a variable
+Prompt the user asking for what word they would like to search for.
+        Save the answer into a variable
+Create a variable for the file usage
+Create a variable that will keep track of word count
+Open the file in read mode, assign it to the variable above
+With a loop, read each line of the file
+        While doing this, read through each character in the line
+        Check if each character in the line is the character the user wants to find
+        If not, continue reading the file
+        If the words match, add 1 to the counter variable
+Continue this loop until we reach the end of the file
+Close the file
+Return the total word count to the user
