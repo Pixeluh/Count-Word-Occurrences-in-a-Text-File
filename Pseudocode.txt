@@ -2,8 +2,6 @@
 ________________
 
 
-
-
 Prompt the user asking for what file name they would like to search.
         Save the answer into a variable
 Prompt the user asking for what word they would like to search for.
